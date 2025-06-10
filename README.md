@@ -1,45 +1,89 @@
-# 👋 Hello! I'm Chetan Chavhan
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/bWx4yVv.png" alt="Chetan Chavhan Banner" width="100%" />
+</p>
 
-💻 Front-End Developer  
-📍 Surat, India
+<h1 align="center">Hi 👋, I'm Chetan Chavhan</h1>
+<h3 align="center">A passionate Front-End Developer from India</h3>
 
----
-
-## 🚀 About Me
-
-I’m a front-end developer with hands-on experience in building responsive and user-focused web interfaces using modern web technologies. I focus on writing clean, maintainable code and continuously improving my development skills through real-world projects.
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Frameworks & Libraries:** React.js, Bootstrap, Vite
-- **Tools:** Git, GitHub, VS Code, Netlify, Firebase (basic)
-- **Soft Skills:** Team collaboration, time management, problem-solving
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chetanchavhan&label=Profile%20views&color=0e75b6&style=flat" alt="chetanchavhan" />
+</p>
 
 ---
 
-## 💼 Projects
+## 🌐 Connect with me
 
-- 🔗 [Airtel Clone](https://github.com/Chetanchavhan/airtel-clone)  
-  Mobile-responsive UI inspired by Airtel India's website.
+<p align="left">
+  <a href="https://linkedin.com/in/chetan-chavhan-244319280" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/chetann_03" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:chavhanchetan470@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-- 🔗 [Product Website](https://github.com/Chetanchavhan/product-website)  
-  A fully responsive marketing website for a product.
+---
+
+## 🧰 Languages and Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" />
+</p>
+
+---
+
+## 🚀 Projects
+
+- 📱 [Airtel Clone](https://github.com/Chetanchavhan/airtel-clone)  
+- 🛍️ [Product Website](https://github.com/Chetanchavhan/product-website)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Chetan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chetanchavhan&show_icons=true&theme=github_dark&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=chetanchavhan&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanchavhan&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
 
 ---
 
-## 📫 Get in Touch
+## 🔥 GitHub Streak
 
-- ✉️ Email: [chavhanchetan470@gmail.com](mailto:chavhanchetan470@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/chetan-chavhan-244319280/)  
-- 💻 [GitHub](https://github.com/Chetanchavhan)  
-- 📸 [Instagram](https://instagram.com/chetann_03)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=chetanchavhan&theme=highcontrast&hide_border=true" />
+</p>
 
+---
+
+## 🏆 Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chetanchavhan&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chetanchavhan&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <em>"Empowering web experiences through clean code and creativity."</em>
+</p>
