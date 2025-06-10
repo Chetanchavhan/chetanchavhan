@@ -1,7 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/bWx4yVv.png" alt="Chetan Chavhan Banner" width="100%" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Chetan Chavhan</h1>
 <h3 align="center">A passionate Front-End Developer from India</h3>
