@@ -43,7 +43,7 @@
 
 ## 🚀 Projects
 
-- 📱 [Netflix Clone]([https://github.com/Chetanchavhan/airtel-clone](https://netflix-se2v.vercel.app/))  
+- 📱 [Netflix Clone](https://netflix-se2v.vercel.app/))  
 - 🛍️ [Product Website](https://github.com/Chetanchavhan/product-website)
 
 ---
