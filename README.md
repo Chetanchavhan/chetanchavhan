@@ -43,8 +43,9 @@
 
 ## 🚀 Projects
 
-- 📱 [Netflix Clone](https://netflix-se2v.vercel.app/))  
-- 🛍️ [Product Website](https://github.com/Chetanchavhan/product-website)
+-  [Netflix Clone](https://netflix-se2v.vercel.app/))  
+-  [Multimart Website](https://multimartecommerce.vercel.app/)
+-  [OmniFood Website](https://ominifoodweb.vercel.app/)
 
 ---
 
