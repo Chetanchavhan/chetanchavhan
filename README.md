@@ -23,15 +23,8 @@
 
 ---
 
-### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chetanchavhan&show_icons=true&theme=tokyonight" alt="Chetan's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Chetanchavhan&theme=tokyonight" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetanchavhan&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
 
 ---
 
