@@ -16,14 +16,15 @@
 ---
 
 ### 🛠️ Tech Stack:
-- **Languages**: HTML, CSS, JavaScript
-- **Frameworks**: React.js, Bootstrap
-- **Tools**: Git, GitHub, VS Code, Netlify, Vercel
-- **Design**: Figma (basic)
+**Languages:** HTML, CSS, JavaScript  
+**Frameworks/Libraries:** React.js, Bootstrap  
+**Tools:** Git, GitHub, VS Code, Netlify, Vercel  
+**Design:** Basic knowledge of Figma  
 
 ---
 
 ### 📊 GitHub Stats:
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chetanchavhan&show_icons=true&theme=tokyonight" alt="Chetan's GitHub stats" />
   <br />
@@ -47,15 +48,15 @@
 
 ---
 
-### 🔗 Connect with me:
+### 🔗 Connect with me
 
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/chetan-chavhan-244319280/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:chavhanchetan470@gmail.com" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
+  &nbsp;
+  <a href="mailto:chavhanchetan470@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30" />
   </a>
 </p>
 
