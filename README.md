@@ -1,87 +1,64 @@
-
-
 <h1 align="center">Hi 👋, I'm Chetan Chavhan</h1>
-<h3 align="center">A passionate Front-End Developer from India</h3>
+<h3 align="center">Front-End Developer | React.js Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chetanchavhan&label=Profile%20views&color=0e75b6&style=flat" alt="chetanchavhan" />
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200px" alt="coding gif">
+</p>
+
+- 🔭 I’m currently working on **React-based projects**
+- 🌱 I’m currently learning **Advanced React and Backend Integration**
+- 👨‍💻 All of my projects are available at [My Portfolio](https://chetanchavhan.github.io/)
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, and React.js**
+- 📫 How to reach me: **chavhanchetan470@gmail.com**
+- 📄 Know about my experience: [Resume (Google Drive)](https://drive.google.com/)
+- ⚡ Fun fact: I love building websites and exploring fitness content!
+
+---
+
+### 🛠️ Tech Stack:
+- **Languages**: HTML, CSS, JavaScript
+- **Frameworks**: React.js, Bootstrap
+- **Tools**: Git, GitHub, VS Code, Netlify, Vercel
+- **Design**: Figma (basic)
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chetanchavhan&show_icons=true&theme=tokyonight" alt="Chetan's GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Chetanchavhan&theme=tokyonight" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetanchavhan&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-## 🌐 Connect with me
+### 📌 Featured Projects
+
+- 🔗 [**MultiMart E-commerce**](https://multimartecommerce.vercel.app/)  
+  Responsive e-commerce website built with React.js and modern UI design.
+
+- 🔗 [**Netflix Clone**](https://netflix-six-brown.vercel.app/)  
+  A React-based clone of Netflix showcasing movie thumbnails and hover effects.
+
+- 🔗 [**Omnifood Web**](https://chetanchavhan.github.io/ominifoodweb/)  
+  Landing page for a food delivery service, built using HTML, CSS, and JavaScript.
+
+---
+
+### 🔗 Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/chetan-chavhan-244319280" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/chetan-chavhan-244319280/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
   </a>
-  <a href="https://instagram.com/chetann_03" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:chavhanchetan470@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="mailto:chavhanchetan470@gmail.com" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
   </a>
 </p>
 
 ---
 
-## 🧰 Languages and Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" />
-</p>
-
----
-
-## 🚀 Projects
-
--  [Netflix Clone](https://netflix-se2v.vercel.app/))  
--  [Multimart Website](https://multimartecommerce.vercel.app/)
--  [OmniFood Website](https://ominifoodweb.vercel.app/)
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chetanchavhan&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanchavhan&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=chetanchavhan&theme=highcontrast&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chetanchavhan&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chetanchavhan&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <em>"Empowering web experiences through clean code and creativity."</em>
-</p>
+> “Code with passion, learn with curiosity, and build with purpose.” 🚀
