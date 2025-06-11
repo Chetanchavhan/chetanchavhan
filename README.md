@@ -1,58 +1,71 @@
-<h1 align="center">Hi 👋, I'm Chetan Chavhan</h1>
-<h3 align="center">Front-End Developer | React.js Enthusiast | Lifelong Learner</h3>
+<h1 align="center">👋 Hey there, I'm Chetan Chavhan</h1>
+<h3 align="center">Front-End Developer | React.js Enthusiast | UI/UX Focused</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200px" alt="coding gif">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" alt="Coding gif" />
 </p>
 
-- 🔭 I’m currently working on **React-based projects**
-- 🌱 I’m currently learning **Advanced React and Backend Integration**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://chetanchavhan.github.io/)
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, and React.js**
-- 📫 How to reach me: **chavhanchetan470@gmail.com**
-- 📄 Know about my experience: [Resume (Google Drive)](https://drive.google.com/)
-- ⚡ Fun fact: I love building websites and exploring fitness content!
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Final Year BCA Student from Swarnim Startup University, Gujarat
+- 💻 Passionate about building responsive websites with clean and modern UI
+- 🌱 Currently improving my **React.js** and **JavaScript** skills
+- 🧠 Exploring backend concepts and API integration
+- 🎯 Goal: Become a Full-Stack Developer and contribute to real-world projects
+- 📬 Reach me at: **chavhanchetan470@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack:
-**Languages:** HTML, CSS, JavaScript  
-**Frameworks/Libraries:** React.js, Bootstrap  
-**Tools:** Git, GitHub, VS Code, Netlify, Vercel  
-**Design:** Basic knowledge of Figma  
+### 🔧 Tech Stack
+
+- **Languages:** HTML, CSS, JavaScript  
+- **Frameworks:** React.js, Bootstrap  
+- **Tools & Platforms:** Git, GitHub, Vercel, Netlify, VS Code  
+- **Design:** Figma (Basic), Canva (for visual design)
 
 ---
 
+### 📈 GitHub Stats
 
-
-
----
-
-### 📌 Featured Projects
-
-- 🔗 [**MultiMart E-commerce**](https://multimartecommerce.vercel.app/)  
-  Responsive e-commerce website built with React.js and modern UI design.
-
-- 🔗 [**Netflix Clone**](https://netflix-six-brown.vercel.app/)  
-  A React-based clone of Netflix showcasing movie thumbnails and hover effects.
-
-- 🔗 [**Omnifood Web**](https://chetanchavhan.github.io/ominifoodweb/)  
-  Landing page for a food delivery service, built using HTML, CSS, and JavaScript.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chetanchavhan&show_icons=true&theme=github_dark&hide_title=false" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Chetanchavhan&theme=github-dark" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetanchavhan&layout=compact&theme=github_dark" />
+</p>
 
 ---
 
-### 🔗 Connect with me
+### 💼 Featured Projects
+
+| Project | Tech Used | Description |
+|--------|-----------|-------------|
+| [MultiMart E-commerce](https://multimartecommerce.vercel.app/) | React.js, CSS | A fully responsive modern e-commerce site with a clean product UI. |
+| [Netflix Clone](https://netflix-six-brown.vercel.app/) | React.js, API | Netflix-inspired UI with movie sections and hover animation. |
+| [Omnifood Website](https://chetanchavhan.github.io/ominifoodweb/) | HTML, CSS, JS | Landing page for a fictional food delivery startup. |
+
+---
+
+### 📫 Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/chetan-chavhan-244319280/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
   </a>
   &nbsp;
   <a href="mailto:chavhanchetan470@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Chetanchavhan" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="30" />
   </a>
 </p>
 
 ---
 
-> “Code with passion, learn with curiosity, and build with purpose.” 🚀
+> “Consistency and curiosity create developers. Keep building, keep learning.” 🚀
+
